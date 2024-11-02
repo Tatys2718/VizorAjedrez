@@ -24,7 +24,7 @@ Este proyecto es un visor de partidas de ajedrez desarrollado en Java. Permite v
 - Piece: Clase abstracta que representa una pieza genérica. Clases derivadas específicas (Rey, Reina, Torre, etc.) heredan de ella y definen los movimientos permitidos.
 - Movimiento y Almacenamiento de Estado: Cada cambio de posición de una pieza se guarda en una lista de movimientos para permitir el uso de la función "deshacer".
 
-##Uso
+## Uso
 - Botones de Navegación: Usa los botones "Siguiente" y "Anterior" para moverte por la partida.
 - Deshacer Movimiento: En caso de error, puedes utilizar esta opción para revertir al estado anterior.
 
